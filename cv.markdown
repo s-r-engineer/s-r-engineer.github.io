@@ -109,3 +109,13 @@ August 2008 - June 2018 (10 years)
 * Learning through building my personal projects.
 * Educating myself on wellbeing, fitness and (mental) health topics.
 * Formal degree - Bachelor's in  Financial management
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WL2WD5B480"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-WL2WD5B480');
+</script>
