@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Self-Repair Engineer blog
-email: start@perminov.im
+email: blog@perminov.im
 description: Story of myself being own maintenance and repair engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://blog.perminov.im
