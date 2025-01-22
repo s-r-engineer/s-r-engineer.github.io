@@ -141,7 +141,8 @@ August 2008 - June 2018 (10 years)
 ## Education
 
 * Consistently learning something new. The latest being Rust and Pulumi.
-* Completed multiple courses on the best coding learning platform [hexlet.io](https://ru.hexlet.io/).
+* Completed multiple courses on the best coding learning platform [hexlet.io](https://ru.hexlet.io/). Got into 100 best (70something)
+in 2017 and still in first thousand.
 * Formal degree - Bachelor in  Financial management.
 * Continuously hacking various equipment to explore and enhance its functionality.
 * Learning through building my personal projects.
