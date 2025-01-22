@@ -153,9 +153,11 @@ August 2008 - June 2018 (10 years)
 * Proud father.
 * Educating myself on well-being, fitness and (mental) health topics.
 * Pro-equality and anti-discrimination regardless.
-* Слава Україні!
 * Feminist.
+* Athletic idealist. I admire sports in general for achievement, resilience, results, and athleticism, without favoring
+specific teams or winners if not next point.
+* In general rooting for female sports, results, wins, achievements and empowerment.
+* Слава Україні!
 * Cycling.
 * Mensa member.
 * Depression survivor.
-
