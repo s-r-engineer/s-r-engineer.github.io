@@ -4,16 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+So who am I?????
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
+* Proud father.
+* Well-being, fitness and (mental) health enthusiast
+* Pro-equality and anti-discrimination regardless.
+* Feminist.
+* Athletic idealist. I admire sports in general for achievement, resilience, results, and athleticism, without favoring
+  specific teams or winners if not next point.
+* In general rooting for female sports, results, wins, achievements and empowerment.
+* Слава Україні!
+* Cycling.
+* Mensa member.
+* Depression survivor.
+* Proud ADHD person 
