@@ -146,17 +146,3 @@ in 2017 and still in first thousand.
 * Formal degree - Bachelor in  Financial management.
 * Continuously hacking various equipment to explore and enhance its functionality.
 * Learning through building my personal projects.
-
-## Bit of personal touch
-
-* Proud father.
-* Educating myself on well-being, fitness and (mental) health topics.
-* Pro-equality and anti-discrimination regardless.
-* Feminist.
-* Athletic idealist. I admire sports in general for achievement, resilience, results, and athleticism, without favoring
-specific teams or winners if not next point.
-* In general rooting for female sports, results, wins, achievements and empowerment.
-* Слава Україні!
-* Cycling.
-* Mensa member.
-* Depression survivor.
