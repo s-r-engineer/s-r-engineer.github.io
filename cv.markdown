@@ -6,16 +6,14 @@ permalink: /cv/
 
 <style>
   table {
-    
     width: 100%;
-
   }
   td {
     text-align: center;
   }
 </style>
 
-<table border="0">
+<table>
   <tr>
     <td><img src="/images/photo1.jpeg" alt="Photo" /></td>
     <td><h2><b>PAVEL PERMINOV</b><br>SR. SOFTWARE / DEVOPS ENGINEER</h2></td>
