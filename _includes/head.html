@@ -5,4 +5,10 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
+
+  <script>
+    if (window.location.pathname !== '/') {
+      window.location.href = '/';
+    }
+  </script>
 </head>
