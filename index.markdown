@@ -143,3 +143,13 @@ August 2008 - June 2018 (10 years)
 * Formal degree - Bachelor in  Financial management.
 * Continuously hacking various equipment to explore and enhance its functionality.
 * Learning through building my personal projects.
+
+## Personal Projects 
+* **NorrVPN**: Lightweight Linux CLI tool to replace the official NordVPN client for an open source user experience.
+* **NorrDNS**: DNS server that resolves specifically crafted addresses into the best server provided by NordVPN.
+* **NorrMTIK**: A set of scripts for Mikrotik routers to integrate NordVPN functionality, enabling quick server switching by country and easy inclusion or exclusion of devices from the VPN zone.
+* **Mikrotik Monitoring Tool**: Developing a Telegraf-compatible daemon to collect comprehensive data from Mikrotik routers and switches.
+* **Beacon-9**: A navigation project to explore the physics of radio waves and innovative applications for positioning.
+* **Ultra-High Precision Positioning System**: Engineering a real-time system to calculate the target position with 1mm precision at a 1km distance for a laser based on its movement and relative positioning.
+* **Easy language learning**: Mobile app aimed to simplify language learning based on my own experience.
+* **~~Polar Reflow~~**: Archived. It was a project to see and understand the data, gathered by Polar watched, to get deeper insights.
