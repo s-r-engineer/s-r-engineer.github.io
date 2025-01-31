@@ -50,6 +50,7 @@ April 2021 - August 2023 (2 years, 4 month)
 * Created 99% identical production and development kubernetes environments (using Ansible and Terraform across AWS, GCP, Azure and edge) which allowed to reduce bugs in production and test changes in close-to-real environments.
 * Automated CI/CD workflows (Azure DevOps, Gitlab, ArgoCD) and disaster recovery systems, achieving 100% process automation and 99.9% uptime.
 * Developed a solution for real-time monitoring and incident notification, cutting response time from hours to just 1 minute.
+* Supported Developers, Management and Customers regarding platforms, software development and other tasks.
 
 **Sr.Infrastructure developer** at [Ericsson](https://www.ericsson.com)<br>
 June 2020 - April 2021 (11 month)
@@ -66,6 +67,7 @@ January 2019 - May 2020 (1 year, 5 month)
 * Built AWS infrastructure (EKS, CloudFormation etc), ensuring 99.9% service availability and scalability.
 * Migrated legacy platforms to Kubernetes, standardizing deployments and reducing complexity.
 * Implemented Jenkins, significantly simplifying application development and delivery processes.
+* Supported developers in day-to-day infrastructure and DevOps related tasks.
 
 **DevExp engineer** at [Tochka Bank](https://tochka.com/)<br>
 June 2018 - December 2018 (7 month)
@@ -73,17 +75,19 @@ June 2018 - December 2018 (7 month)
 * Developed a highly available cloud-native load balancer for InfluxDB with resynchronization and errors fixing.
 * Built command-line tools for authorization and database subscription management.
 * Identified and fixed Linux kernel bugs.
+* Supported developers in day-to-day infrastructure and DevOps related tasks.
 
 **Sr. Systems/DevOps/Software engineer** at [TPlus group](http://www.tplusgroup.ru/)<br>
 August 2008 - June 2018 (10 years)
 
 * Using bash, Python and PHP developed a low cost backup solution covering 100% of branches with backups and enabling rapid data recovery for every given hour.
 * Designed data centers, storage and virtualization solutions achieving 100% IT service coverage.
-* Developed numerous tools and scripts for automation and optimization purposes
+* Developed numerous tools and scripts for automation and optimization purposes.
+* Supported users, customers and other IT teams regarding our systems and best practices
 
 ## Toolset
 
-* **Programming Languages:** Go, JavaScript, TypeScript, Python, C
+* **Programming Languages:** Go, JavaScript, TypeScript, Python
 * **Development Tools:** Git, Conda, Gerrit, Jest, GitHub, React Native, React.js, MobX, Redux, Robot Framework, PyTest, Node.js, NPM, Yarm
 * **Databases:** InfluxDB, MongoDB, MS SQL, PostgreSQL, MySQL, Redis
 * **Infrastructure:** Bash, Active Directory, CentOS, Fedora, Docker, Docker Swarm, CEPH, NFS, Google Cloud Platform (GCP), Helm, Debian, IPSEC, Kubernetes, Ubuntu, KVM, Microsoft Azure, RabbitMQ, NATs, Mikrotik, OpenSUSE, OpenVPN, Wireguard, Restic
