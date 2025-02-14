@@ -39,7 +39,7 @@ September 2023 - January 2024 (5 month)
 * Calculated and proved the way to reduce software development and  delivery costs.
 * Developed and optimized software for AWS infrastructure.
 
-**Sr. Software engineer** at [Millisecond oy](https://www.linkedin.com/company/millisecond-oy/)<br>
+**Sr. Software/DevOps/Infrastructure engineer** at [Millisecond oy](https://www.linkedin.com/company/millisecond-oy/)<br>
 April 2021 - August 2023 (2 years, 4 month)
 
 * Designed and developed a platform for mining operations management, eliminating customer’s need for paper-based processes and enabling real-time progress tracking.
