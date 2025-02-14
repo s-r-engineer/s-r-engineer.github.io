@@ -13,7 +13,7 @@ layout: page
 <table>
   <tr>
     <td><img src="/images/photo1.jpeg" alt="Photo" /></td>
-    <td><h2><b>PAVEL PERMINOV</b><br>SR. SOFTWARE / DEVOPS ENGINEER</h2></td>
+    <td><h2><b>PAVEL PERMINOV</b><br>SR. DEVOPS / SOFTWARE ENGINEER</h2></td>
   </tr>
   
 </table>
