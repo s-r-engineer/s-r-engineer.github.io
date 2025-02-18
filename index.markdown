@@ -89,12 +89,12 @@ August 2008 - June 2018 (10 years)
 
 * **Programming Languages:** Go, JavaScript, TypeScript, Python
 * **Development Tools:** Git, Conda, Gerrit, Jest, GitHub, React Native, React.js, MobX, Redux, Robot Framework, PyTest, Node.js, NPM, Yarm
-* **Databases:** InfluxDB, MongoDB, MS SQL, PostgreSQL, MySQL, Redis
-* **Infrastructure:** Bash, Active Directory, CentOS, Fedora, Docker, Docker Swarm, CEPH, NFS, Google Cloud Platform (GCP), Helm, Debian, IPSEC, Kubernetes, Ubuntu, KVM, Microsoft Azure, RabbitMQ, NATs, Mikrotik, OpenSUSE, OpenVPN, Wireguard, Restic
+* **Databases:** InfluxDB, MongoDB, MS SQL, PostgreSQL, MySQL/MariaDB, Redis
+* **Infrastructure:** Bash, Active Directory, CentOS, Fedora, Docker, Istio, HAProxy, Nginx, GlusterFS, CEPH, NFS, Google Cloud Platform (GCP), Helm, Debian, IPSEC, Kubernetes, Ubuntu, KVM, Microsoft Azure, RabbitMQ, NATs, Mikrotik, OpenSUSE, OpenVPN, Wireguard, Restic
 * **IaaC:** Ansible, Terraform, Pulumi
-* **DevOps:** Aptly, ArgoCD, Artifactory, AWS, GitLab, Azure DevOps, ElasticSearch, FluentBit, Grafana, Jenkins, Kapacitor, Packer, Kibana, Prometheus, Telegraf, Logstash, Sentry
+* **DevOps:** Aptly, ArgoCD, Datadog, Artifactory, AWS, GitLab, Azure DevOps, ElasticSearch, FluentBit, Grafana, Jenkins, Kapacitor, Packer, Kibana, Prometheus, Telegraf, Logstash, Sentry
 * **SecOps:** Grype, OpenVAS, Nmap, Wireshark, tcpdump, Sysinternals
-* **Workflow**: Agile, Scrum, Kanban, Release management
+* **Workflow**: Agile, Scrum, Kanban, Release management, Confluence, Jira
 
 ## Key Technical Skills
 
