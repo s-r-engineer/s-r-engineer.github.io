@@ -15,7 +15,7 @@ layout: page
     <td><img src="/images/photo1.jpeg" alt="Photo" /></td>
     <td><h2><b>PAVEL PERMINOV</b><br>SR. DEVOPS / SOFTWARE ENGINEER</h2></td>
   </tr>
-  
+
 </table>
 
 ## Summary
@@ -26,7 +26,7 @@ I love working with people. I enjoy helping them gain experience and build confi
 
 In teamwork, I aim to absorb as many different perspectives as possible to help the team function effectively and avoid uncertainties or conflicts. I value open and honest communication and am never silent when I see room for improvement. Whether it’s resolving long-standing issues or implementing small fixes to improve a team’s day-to-day workflow, I persistently advocate for solutions until they are achieved.
 
-I believe that, in business, people are the only real asset because everything else is or was created by other people. I stand for the absolute and total equality of all individuals, as well as the power of our socially connected nature. Together, we create amazing things.  
+I believe that, in business, people are the only real asset because everything else is or was created by other people. I stand for the absolute and total equality of all individuals, as well as the power of our socially connected nature. Together, we create amazing things.
 
 ## Experience
 
@@ -148,7 +148,7 @@ August 2008 - June 2018 (10 years)
 * Continuously hacking various equipment to explore and enhance its functionality.
 * Learning through building my personal projects.
 
-## Personal Projects 
+## Personal Projects
 * **NorrVPN**: Lightweight Linux CLI tool to replace the official NordVPN client for an open source user experience.
 * **NorrDNS**: DNS server that resolves specifically crafted addresses into the best server provided by NordVPN.
 * **NorrMTIK**: A set of scripts for Mikrotik routers to integrate NordVPN functionality, enabling quick server switching by country and easy inclusion or exclusion of devices from the VPN zone.
@@ -157,3 +157,50 @@ August 2008 - June 2018 (10 years)
 * **Ultra-High Precision Positioning System**: Engineering a real-time system to calculate the target position with 1mm precision at a 1km distance for a laser based on its movement and relative positioning.
 * **Easy language learning**: Mobile app aimed to simplify language learning based on my own experience.
 * **~~Polar Reflow~~**: Archived. It was a project to see and understand the data, gathered by Polar watches, to get deeper insights.
+
+## Recommendations
+
+### Oscari Noppa, Senior programmer at Bolt.Works
+Pavel is a skilled engineer who quickly becomes productive in new projects and environments. He brings a thoughtful
+approach to his work, identifying areas for improvement and suggesting optimizations. Pavel places a solid emphasis on
+testing and contributed to improving our integration test coverage. He also collaborated effectively with external
+partners to integrate their services into our TypeScript codebase.
+
+### Antti Pudas, CTO at Millisecond oy
+I am recommending Pavel Perminov for any position that requires a skilled software engineer and an effective development process manager. I had the pleasure of working with Pavel for over a year at Millisecond Oy, and during that time, I was consistently impressed by his ability to excel in multiple facets of our organization's software development efforts.<br>
+Pavel's technical expertise in software debugging and development is truly remarkable. He is proficient in various programming languages such as GO, JavaScript (React and React-Native), and Python. His deep understanding of these languages has allowed him to make significant contributions to our team, consistently delivering high-quality code and successfully debugging complex software issues.<br>
+Moreover, Pavel has demonstrated a strong grasp of DevOps principles and tools, including Kubernetes, Ansible, CI/CD, tests, and monitoring. His ability to integrate these tools into our development pipeline has significantly improved the efficiency and effectiveness of our team's workflow. Pavel has a keen understanding of the importance of automation and infrastructure management in modern software development, which has been instrumental in helping our team stay competitive.<br>
+In addition to his technical prowess, Pavel has shown exceptional talent in development process management. He has effectively designed and implemented development processes, ensuring smooth collaboration between our in-house team and subcontractors. His experience in human resources has enabled him to build and maintain a motivated and high-performing team. Pavel is not one to shy away from difficult conversations, as evidenced by his ability to engage in constructive debates with management to advocate for the best interests of our development team.<br>
+In summary, I wholeheartedly
+
+### Eero Penttinen, Senior software developer at Millisecond oy
+Pavel is very experienced in many areas with very deep knowledge in Go programming language, DevOps, Kubernetes, Docker
+and automating things. He raised the knowledge of DevOps, Kubernetes, Docker and automation to a completely different
+level when he joined our team in the past. He is also a fast learner and good team player and can grasp complex areas
+very quickly. Any team would greatly benefit of having a SW engineer like Pavel in their team.
+
+### Terje Uurtomies, Project manager at Millisecond oy
+I have had the pleasure of working with Pavel Perminov for two years and during this time, I have been consistently impressed by his exceptional technical skills, work ethic, and dedication to the work. <br>
+As a Senior Software Engineer, Pavel has demonstrated a remarkable ability to tackle complex problems and deliver robust solutions that meet or exceed our clients requirements.<br>
+Pavel has exceptional technical skills and a deep understanding of software architecture.<br>
+He's proactive in seeking out opportunities to learn new technologies and best practices, and always up-to-date with the latest trends in the Software development industry.<br>
+He has always taken the data security of the systems he designed very seriously.<br>
+In summary, I wholeheartedly recommend Pavel for any software engineering position.
+
+### Adam Peltoniemi, Section manager at Ericsson
+As a developer in our product infrastructure team, Pavel was responsible for researching, architecting, implementing,
+and testing software features related to the infrastructure on top of which the rest of our product runs. He
+consistently delivered complex features on time and with high quality.<br><br>Pavel also showed a keen curiosity into our
+work procedures and was not afraid to challenge the status quo. He is excellent at identifying areas that can be
+improved upon, both within the product itself and in the policies surrounding its development, and is not afraid to
+speak up.
+
+### Filip Granö, Infrastructure team lead at Curious AI
+As the manager of the AI Infrastructure Team at Curious AI, I had the pleasure of working closely with Pavel for 1.5 years. During this time, Pavel assumed many important responsibilities and I always felt like he was someone I could rely on.<br>
+His key contributions included maintaining our research infrastructure and developing the next-generation Kubernetes-based infrastructure and tooling. Pavel's technical expertise, his ability to quickly understand the fundamental technical requirements, and his collaborative nature made him an invaluable team member.<br>
+Pavel is straightforward when discussing technical plans and solutions, which is a real asset. His honest input, backed by his expertise, helps improve projects and encourages open communication within the team.<br>
+I wholeheartedly recommend Pavel a highly skilled and dependable engineer. I hope to one day again work alongside him. He exceeded my expectations, and I feel confident he will exceed yours as well.
+
+### Jessica Laiho, Executive assistant to CEO / HR Coordinator at Curious AI
+Pavel was a real joy to work with. Polite, humorous and witty. Pavel is the kind of colleague who puts a smile on your face and takes his work seriously.
+recommend Pavel Perminow for any position that requires a highly skilled software engineer and a strategic development process manager. His unique combination of technical expertise and management abilities make him a valuable asset to any organization. I am confident that Pavel will continue to excel in his career and make a significant impact in the software engineering field.
