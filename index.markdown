@@ -28,6 +28,54 @@ In teamwork, I aim to absorb as many different perspectives as possible to help 
 
 I believe that, in business, people are the only real asset because everything else is or was created by other people. I stand for the absolute and total equality of all individuals, as well as the power of our socially connected nature. Together, we create amazing things.
 
+## Toolset
+
+* **Programming Languages:** Go, JavaScript, TypeScript, Python
+* **Development Tools:** Git, Conda, Gerrit, Jest, GitHub, React Native, React.js, MobX, Redux, Robot Framework, PyTest, Node.js, NPM, Yarm
+* **Databases:** InfluxDB, MongoDB, MS SQL, PostgreSQL, MySQL/MariaDB, Redis
+* **Infrastructure:** Bash, Active Directory, CentOS, Fedora, Docker, Istio, HAProxy, Nginx, GlusterFS, CEPH, NFS, Google Cloud Platform (GCP), Helm, Debian, IPSEC, Kubernetes, Ubuntu, KVM, Microsoft Azure, RabbitMQ, NATs, Mikrotik, OpenSUSE, OpenVPN, Wireguard, Restic
+* **IaaC:** Ansible, Terraform, Pulumi
+* **DevOps:** Aptly, ArgoCD, Datadog, Artifactory, AWS, GitLab, Azure DevOps, ElasticSearch, FluentBit, Grafana, Jenkins, Kapacitor, Packer, Kibana, Prometheus, Telegraf, Logstash, Sentry
+* **SecOps:** Grype, OpenVAS, Nmap, Wireshark, tcpdump, Sysinternals
+* **Workflow**: Agile, Scrum, Kanban, Release management, Confluence, Jira
+
+## Key Technical Skills
+
+* Exceptional analytical and problem-solving skills.
+* Proven ability to master complex concepts quickly and deliver creative, high-impact results.
+* Software architecture, development and optimization.
+* Security implementation and enforcement.
+* Microservice, distributed and monolithic architectures.
+* Software testing, quality assurance and code reviews.
+* Containerization and Orchestration.
+* Distributed systems.
+* Database management.
+* Performance optimization.
+* Data solutions.
+* Networking.
+* Hardware.
+* Algorithms and Data Structures.
+* DevSecOps practices.
+* Infrastructure architecture and management.
+* Cloud computing and virtualization.
+
+## Key soft skills
+
+* Cross-functional communication
+* Team communication
+* Ability to explain complex concepts clearly.
+* Teamwork
+* Problem solving
+* Technical leadership and mentorship (experience managing teams of up to 16 people)
+
+## Key business skills
+
+* Business first.
+* Been an entrepreneur. Loved it.
+* Costs optimization.
+* CTO
+* Recruitment process management (job postings, interviews, skill and experience evaluation, test assessments design and evaluation).
+
 ## Experience
 
 **Sr. Fullstack engineer** at [Bolt.works](https://www.bolt.works/)<br>
@@ -84,54 +132,6 @@ August 2008 - June 2018 (10 years)
 * Designed data centers, storage and virtualization solutions achieving 100% IT service coverage.
 * Developed numerous tools and scripts for automation and optimization purposes.
 * Supported users, customers and other IT teams regarding our systems and best practices
-
-## Toolset
-
-* **Programming Languages:** Go, JavaScript, TypeScript, Python
-* **Development Tools:** Git, Conda, Gerrit, Jest, GitHub, React Native, React.js, MobX, Redux, Robot Framework, PyTest, Node.js, NPM, Yarm
-* **Databases:** InfluxDB, MongoDB, MS SQL, PostgreSQL, MySQL/MariaDB, Redis
-* **Infrastructure:** Bash, Active Directory, CentOS, Fedora, Docker, Istio, HAProxy, Nginx, GlusterFS, CEPH, NFS, Google Cloud Platform (GCP), Helm, Debian, IPSEC, Kubernetes, Ubuntu, KVM, Microsoft Azure, RabbitMQ, NATs, Mikrotik, OpenSUSE, OpenVPN, Wireguard, Restic
-* **IaaC:** Ansible, Terraform, Pulumi
-* **DevOps:** Aptly, ArgoCD, Datadog, Artifactory, AWS, GitLab, Azure DevOps, ElasticSearch, FluentBit, Grafana, Jenkins, Kapacitor, Packer, Kibana, Prometheus, Telegraf, Logstash, Sentry
-* **SecOps:** Grype, OpenVAS, Nmap, Wireshark, tcpdump, Sysinternals
-* **Workflow**: Agile, Scrum, Kanban, Release management, Confluence, Jira
-
-## Key Technical Skills
-
-* Exceptional analytical and problem-solving skills.
-* Proven ability to master complex concepts quickly and deliver creative, high-impact results.
-* Software architecture, development and optimization.
-* Security implementation and enforcement.
-* Microservice, distributed and monolithic architectures.
-* Software testing, quality assurance and code reviews.
-* Containerization and Orchestration.
-* Distributed systems.
-* Database management.
-* Performance optimization.
-* Data solutions.
-* Networking.
-* Hardware.
-* Algorithms and Data Structures.
-* DevSecOps practices.
-* Infrastructure architecture and management.
-* Cloud computing and virtualization.
-
-## Key soft skills
-
-* Cross-functional communication
-* Team communication
-* Ability to explain complex concepts clearly.
-* Teamwork
-* Problem solving
-* Technical leadership and mentorship (experience managing teams of up to 16 people)
-
-## Key business skills
-
-* Business first.
-* Been an entrepreneur. Loved it.
-* Costs optimization.
-* CTO
-* Recruitment process management (job postings, interviews, skill and experience evaluation, test assessments design and evaluation).
 
 ## Languages
 
