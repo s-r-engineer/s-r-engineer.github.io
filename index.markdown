@@ -9,7 +9,8 @@ layout: page
     text-align: center;
   }
 </style>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<button onclick="generatePDF()">Download CV as PDF</button>
 <table>
   <tr>
     <td><img src="/images/photo1.jpeg" alt="Photo" /></td>
@@ -149,14 +150,15 @@ August 2008 - June 2018 (10 years)
 * Learning through building my personal projects.
 
 ## Personal Projects
-* **NorrVPN**: Lightweight Linux CLI tool to replace the official NordVPN client for an open source user experience.
-* **NorrDNS**: DNS server that resolves specifically crafted addresses into the best server provided by NordVPN.
-* **NorrMTIK**: A set of scripts for Mikrotik routers to integrate NordVPN functionality, enabling quick server switching by country and easy inclusion or exclusion of devices from the VPN zone.
-* **Mikrotik Monitoring Tool**: Developing a Telegraf-compatible daemon to collect comprehensive data from Mikrotik routers and switches.
+* [**NorrVPN**](https://github.com/s-r-engineer/norrvpn): Lightweight Linux CLI tool to replace the official NordVPN client for an open source user experience.
+* [**NorrDNS**](https://github.com/s-r-engineer/norrDNS): DNS server that resolves specifically crafted addresses into the best server provided by NordVPN.
+* [**NorrWGConfig**](https://github.com/s-r-engineer/norrWGConfig): tool to build wireguard configuration files for Nordvpn endpoints to use in any WireGuard client without the need in NordVPN client. Heavily relying on **NorrDNS** for current best server selection
+* [**NorrMTIK**](https://github.com/s-r-engineer/NordVPNForMikrotik): A set of scripts for Mikrotik routers to integrate NordVPN functionality, enabling quick server switching by country and easy inclusion or exclusion of devices from the VPN zone.
+* [**Mikrograf**](https://github.com/s-r-engineer/mikrograf): A Telegraf-compatible tool to collect comprehensive data from Mikrotik routers and switches.
 * **Beacon-9**: A navigation project to explore the physics of radio waves and innovative applications for positioning.
 * **Ultra-High Precision Positioning System**: Engineering a real-time system to calculate the target position with 1mm precision at a 1km distance for a laser based on its movement and relative positioning.
 * **Easy language learning**: Mobile app aimed to simplify language learning based on my own experience.
-* **~~Polar Reflow~~**: Archived. It was a project to see and understand the data, gathered by Polar watches, to get deeper insights.
+* [**~~Polar Reflow~~**](https://github.com/s-r-engineer/polar_reflow): Archived. It was a project to see and understand the data, gathered by Polar watches, to get deeper insights.
 
 ## Recommendations
 
