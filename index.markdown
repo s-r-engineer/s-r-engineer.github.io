@@ -15,6 +15,8 @@ layout: page
     <td><h2><b>PAVEL PERMINOV</b><br>SR. DEVOPS / SOFTWARE ENGINEER</h2></td>
   </tr>
 </table>
+<div class="calendar">Loading GitHub contributions...</div>
+<img src="https://github-readme-stats.vercel.app/api?username=s-r-engineer&show_icons=true&count_private=true" />
 ## Summary
 
 Being platform-, language-, software-, hardware-, and human-agnostic, I can make an impact on any project and/or team starting day one. Apart from my experience as an engineer in various business and technological fields, I also bring exceptional analytical skills and creativity. I don’t take "that is hard" as an answer from myself.
@@ -140,7 +142,7 @@ August 2008 - June 2018 (10 years)
 ## Education
 
 * Consistently learning something new. The latest being Rust and Pulumi.
-* Completed multiple courses on the best coding learning platform [hexlet.io](https://ru.hexlet.io/). Got into 100 best (70something).
+* Completed multiple courses on the best coding learning platform [hexlet.io](https://ru.hexlet.io/). Got into top 2%
 * Formal degree - Bachelor in  Financial management.
 * Continuously hacking various equipment to explore and enhance its functionality.
 * Learning through building my personal projects.
