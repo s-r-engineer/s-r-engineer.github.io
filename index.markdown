@@ -9,16 +9,12 @@ layout: page
     text-align: center;
   }
 </style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
-<button onclick="generatePDF()">Download CV as PDF</button>
 <table>
   <tr>
     <td><img src="/images/photo1.jpeg" alt="Photo" /></td>
     <td><h2><b>PAVEL PERMINOV</b><br>SR. DEVOPS / SOFTWARE ENGINEER</h2></td>
   </tr>
-
 </table>
-
 ## Summary
 
 Being platform-, language-, software-, hardware-, and human-agnostic, I can make an impact on any project and/or team starting day one. Apart from my experience as an engineer in various business and technological fields, I also bring exceptional analytical skills and creativity. I don’t take "that is hard" as an answer from myself.
@@ -206,3 +202,8 @@ I wholeheartedly recommend Pavel a highly skilled and dependable engineer. I hop
 ### [Jessica Laiho, Executive assistant to CEO / HR Coordinator at Curious AI](https://www.linkedin.com/in/jessica-laiho-02882466/)
 Pavel was a real joy to work with. Polite, humorous and witty. Pavel is the kind of colleague who puts a smile on your face and takes his work seriously.
 recommend Pavel Perminow for any position that requires a highly skilled software engineer and a strategic development process manager. His unique combination of technical expertise and management abilities make him a valuable asset to any organization. I am confident that Pavel will continue to excel in his career and make a significant impact in the software engineering field.
+
+
+ <script>
+  GitHubCalendar(".calendar", "s-r-engineer", { responsive: true });
+</script>
